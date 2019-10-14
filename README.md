@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+helloo 
+im a very intersting person
+
+having fun
